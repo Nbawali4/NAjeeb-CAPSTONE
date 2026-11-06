@@ -17,9 +17,9 @@ I curated targeted resources including:
 - Interview prep frameworks and bias-mitigated evaluation rubrics
 
 4. My AI Career Coach in Action
-- Career Guidance: Evaluated my technical portfolio strengths and identified key skill gaps[cite: 3].
-- Mock Interview: Practiced low-level hardware constraints and debugging strategies for STM32/Arduino boards[cite: 3].
-- Career Action Plan: Structured a 30/60/90-day pipeline for resume optimization and Fall '27 applications[cite: 2].
+- Career Guidance: Evaluated my technical portfolio strengths and identified key skill gaps.
+- Mock Interview: Practiced low-level hardware constraints and debugging strategies for STM32/Arduino boards.
+- Career Action Plan: Structured a 30/60/90-day pipeline for resume optimization and Fall '27 applications.
 
  5. Testing and Improvements
 Refined a vague resume-review prompt into an objective, bias-mitigated technical assessment engine using a strict 1-to-5 scoring matrix 
@@ -29,9 +29,9 @@ Refined a vague resume-review prompt into an objective, bias-mitigated technical
 - Data Privacy: Ensured private personal data, contact details, transcripts, and API keys are never uploaded.
 
  7. My 30/60/90-Day Career Plan
-30 days: Audit and document GitHub repositories (local web servers, telemetry)[cite: 2, 3].
-60 days: Optimize resume keywords for ATS screening (Python, FastAPI, C++, embedded hardware)[cite: 2, 3].
-90 days:** Conduct mock technical interviews and low-level debugging for Fall '27 applications[cite: 2, 3].
+30 days: Audit and document GitHub repositories (local web servers, telemetry).
+60 days: Optimize resume keywords for ATS screening (Python, FastAPI, C++, embedded hardware).
+90 days:** Conduct mock technical interviews and low-level debugging for Fall '27 applications.
 
  8. Reflection
 The coach bridges the gap between raw project history and structured technical requirements, serving as an on-demand technical mentor.
